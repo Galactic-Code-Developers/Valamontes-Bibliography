@@ -32,12 +32,12 @@
 6. **Demokritos Scientific Journal: Foundations of Open Physics Research: Special Edition**  
    **Series:** Foundations of Open Physics  
    **Formats:** Hardcover, Paperback  
-   **ISBN-13:** 979-8341278011  
+   **ISBN-13:** 979-8340779533  
 
 7. **Foundations and Frontiers in Theoretical Physics: Collected Papers: The Dodecahedron Theory of Everything (Open Research Repository)**  
    **Series:** Open Research Repository  
    **Formats:** Hardcover, Paperback  
-   **ISBN-13:** TBD  
+   **ISBN-13:** 979-8341278011 
 
 8. **A Theoretical Model for Analyzing the Microscale Effects of Hawking Radiation in the Vicinity of Black Holes (Foundations of Open Physics)**  
    **Series:** Foundations of Open Physics  
