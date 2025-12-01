@@ -42,7 +42,7 @@
 8. **A Theoretical Model for Analyzing the Microscale Effects of Hawking Radiation in the Vicinity of Black Holes (Foundations of Open Physics)**  
    **Series:** Foundations of Open Physics  
    **Formats:** Kindle, Hardcover, Paperback  
-   **ISBN-13:** TBD  
+   **ISBN-13:** 979-8873912438  
 
 9. **Celestial Luminodynamics: A Model of Light Behavior in Multi-Dimensional Black Hole Environments (Foundations of Open Physics)**  
    **Series:** Foundations of Open Physics  
