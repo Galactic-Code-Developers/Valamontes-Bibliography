@@ -16,7 +16,7 @@ keywords:
   - fiction
   - Antonios Valamontes
 type: "dataset"
-repository-code: "https://github.com/USERNAME/REPOSITORY"  # <-- replace with actual
+repository-code: "https://github.com/Galactic-Code-Developers/Valamontes-Bibliography"
 abstract: >
   This repository contains structured metadata for the published books of
   Antonios Valamontes, including BibTeX entries (bibliography.bib),
