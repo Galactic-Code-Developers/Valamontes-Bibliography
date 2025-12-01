@@ -37,7 +37,7 @@
 7. **Foundations and Frontiers in Theoretical Physics: Collected Papers: The Dodecahedron Theory of Everything (Open Research Repository)**  
    **Series:** Open Research Repository  
    **Formats:** Hardcover, Paperback  
-   **ISBN-13:** TBD 979-8339034629
+   **ISBN-13:** 979-8339034629
 
 8. **A Theoretical Model for Analyzing the Microscale Effects of Hawking Radiation in the Vicinity of Black Holes (Foundations of Open Physics)**  
    **Series:** Foundations of Open Physics  
