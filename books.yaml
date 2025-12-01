@@ -1,0 +1,461 @@
+author: "Antonios Valamontes"
+books:
+  - slug: "america-first-vs-homeland-first"
+    title: "America First vs. Homeland First: Media Ecosystems, Polarization, and Political Responsibility in a Tiered World"
+    categories: ["Politics", "Media", "Systems"]
+    formats: ["Kindle"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "corporate-mirage"
+    title: "The Corporate Mirage: How Financialized Management Replaced Work with Illusion"
+    categories: ["Economics", "Business"]
+    formats: ["Kindle", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: null
+
+  - slug: "day-the-internet-collapsed"
+    title: "The Day The Internet Collapsed: Modeling Systemic Risk in the Age of Data Saturation"
+    categories: ["Economics", "Technology", "Risk"]
+    formats: ["Kindle", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: null
+
+  - slug: "weaponized-psychology"
+    title: "Weaponized Psychology: How Cognitive Dissonance Controls the Modern Mind"
+    categories: ["Psychology", "Media"]
+    formats: ["Kindle", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: null
+
+  - slug: "court-case-banks-create-money"
+    title: "Court Case That Exposed: How Banks Create Money from Nothing: The Legal Battle That Revealed the Secret Architecture of Modern Finance"
+    categories: ["Economics", "Law", "Finance"]
+    formats: ["Kindle", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: null
+
+  - slug: "nash-code"
+    title: "The Nash Code: Awareness, Freedom, and Ethical Game Strategy"
+    categories: ["Game Theory", "Ethics", "Psychology"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "infinity-calculus"
+    title: "Infinity Calculus: Symbolic Foundations of Infinite Analysis"
+    series: "Infinity Math Series"
+    categories: ["Mathematics", "Physics"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "infinity-algebra-matrix-theory"
+    title: "Infinity Algebra Matrix Theory: A Symbolic Framework for Quantum and Gravitational Systems"
+    series: "Infinity Math Series"
+    categories: ["Mathematics", "Physics"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "reckoning-of-centuria-vol1"
+    title: "The Reckoning of Centuria: Volume I: The Fall of Earth"
+    series: "Reckoning of Centuria"
+    categories: ["Science Fiction"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "infinity-tensor-calculus"
+    title: "Infinity Tensor Calculus: A Symbolic Framework for Physics Beyond Divergence"
+    series: "Infinity Math Series"
+    categories: ["Mathematics", "Physics"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "price-of-easy-money"
+    title: "The Price of Ea$y Money: Banking, Debt, and Inequality in Modern America"
+    categories: ["Economics", "Finance"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "reckoning-of-centuria-vol2"
+    title: "The Reckoning of Centuria: Volume II: The Unknown Frontier"
+    series: "Reckoning of Centuria"
+    categories: ["Science Fiction"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "danger-warming-area-51"
+    title: "Danger: Warming Area 51: No Trespassing Beyond This Point"
+    categories: ["Pop Culture", "Speculative"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "demokritos-volume-1"
+    title: "Demokritos Scientific Journal: Foundations of Open Physics Research Article Series Volume 1 September 2024"
+    series: "Foundations of Open Physics"
+    categories: ["Physics", "Journal"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "demokritos-special-edition"
+    title: "Demokritos Scientific Journal: Foundations of Open Physics Research: Special Edition"
+    series: "Foundations of Open Physics"
+    categories: ["Physics", "Journal"]
+    formats: ["Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "mathematics-language-of-science"
+    title: "Mathematics: The Language of Science: From Big Bang To The 21st Century"
+    series: "Foundations of Open Physics"
+    categories: ["Mathematics", "Physics"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "journey-to-alpha-centauri"
+    title: "Journey to Alpha Centauri: Exploring New Earths: Proxima Centauri B"
+    categories: ["Astrophysics", "Popular Science"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "foundations-frontiers-dodecahedron"
+    title: "Foundations and Frontiers in Theoretical Physics: Collected Papers: The Dodecahedron Theory of Everything"
+    series: "Open Research Repository"
+    categories: ["Physics", "Collected Papers"]
+    formats: ["Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "big-bang-theory-entanglement"
+    title: "The Big Bang Theory Entanglement: The Bonds of Friendship and Science"
+    series: "Pop Culture Impact"
+    categories: ["Pop Culture", "Science Communication"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "hitchhikers-guide-tbbt-s1"
+    title: "Hitchhikers Guide to The Big Bang Theory: Season 1"
+    series: "Hitchhikers Guide to The Big Bang Theory"
+    categories: ["Pop Culture"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "bitcoin-buy-sell-hodl-series"
+    title: "BITCOIN: Buy • Sell • HODL (Cryptocurrencies and the Future of Monetary Policy Book 3)"
+    series: "Cryptocurrencies and the Future of Monetary Policy"
+    categories: ["Economics", "Cryptocurrency"]
+    formats: ["Kindle"]
+    isbn_paperback: null
+    isbn_hardcover: null
+
+  - slug: "bitcoin-buy-sell-hodl-standalone"
+    title: "BITCOIN: BUY • SELL • HODL"
+    categories: ["Economics", "Cryptocurrency"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "hawking-radiation-microscale"
+    title: "A Theoretical Model for Analyzing the Microscale Effects of Hawking Radiation in the Vicinity of Black Holes"
+    series: "Foundations of Open Physics"
+    categories: ["Physics", "Black Holes"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "celestial-luminodynamics"
+    title: "Celestial Luminodynamics: A Model of Light Behavior in Multi-Dimensional Black Hole Environments"
+    series: "Foundations of Open Physics"
+    categories: ["Physics", "Black Holes"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "economic-status-black-americans"
+    title: "The Economic Status of Black Americans Post-1965: An Alternative Perspective"
+    categories: ["Economics", "Sociology"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "quantum-gravitational-strataverse"
+    title: "Quantum-Gravitational Strataverse: A Novel Framework for Integrating Quantum Mechanics and Cosmology"
+    series: "Foundations of Open Physics"
+    categories: ["Physics", "Cosmology"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "foggy-bottom-swamp-creatures"
+    title: "The Foggy Bottom Swamp Creatures"
+    categories: ["Politics", "Satire"]
+    formats: ["Kindle", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: null
+
+  - slug: "salton-sea-ecosystem-roadmap"
+    title: "Roadmap: Restoration of the Salton Sea Ecosystem: My Visions of the Lake Spirit"
+    series: "Sustainability and Human Ecology"
+    categories: ["Environment", "Policy"]
+    formats: ["Kindle", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: null
+
+  - slug: "opportunities-co2-sequestration"
+    title: "Opportunities In Carbon Dioxide Sequestration: Use Case: CO2 Sequestration Project in Sub-Saharan Africa"
+    series: "Sustainability and Human Ecology"
+    categories: ["Environment", "Policy"]
+    formats: ["Kindle", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: null
+
+  - slug: "travel-guide-climate-change"
+    title: "Travel Guide To Climate Change: How Milankovitch Cycles Shape Earth's Climate and Ice Ages"
+    series: "Sustainability and Human Ecology"
+    categories: ["Climate", "Science"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "charlie-chan-chicago-murder"
+    title: "Charlie Chan: The Case of the Chicago Murder"
+    series: "The Enigmatic Chronicles of Charlie Chan: Mystery Adventures"
+    categories: ["Mystery", "Crime"]
+    formats: ["Kindle", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: null
+
+  - slug: "land-of-the-golden-fleece"
+    title: "Land Of The Golden Fleece: Heroes and Demi-Gods"
+    series: "Empires and Legends of the Ancient World"
+    categories: ["History", "Mythology"]
+    formats: ["Kindle", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: null
+
+  - slug: "nancy-lane-keepers-of-the-lie"
+    title: "Nancy Lane Crime Mysteries: The Case: Keepers of the Lie"
+    series: "Nancy Lane Crime Stories"
+    categories: ["Mystery", "Crime"]
+    formats: ["Kindle", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: null
+
+  - slug: "swamp-fox-battle-sullivans-island"
+    title: "Swamp Fox: The Adventures of Marion Francis: Battle of Sullivan's Island (1776)"
+    series: "Swamp Fox: The Adventures of Marion Francis"
+    categories: ["Historical Fiction"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "charlie-chan-crimson-dragon"
+    title: "Charlie Chan and the Crimson Dragon: A CHARLIE CHAN MYSTERY"
+    series: "The Enigmatic Chronicles of Charlie Chan: Mystery Adventures"
+    categories: ["Mystery", "Crime"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "meet-the-cultivars"
+    title: "Meet The Cultivars: A COLLECTOR'S EDITION"
+    categories: ["Horticulture", "Lifestyle"]
+    formats: ["Kindle", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: null
+
+  - slug: "2084-centennial-year"
+    title: "2084: The Centennial Year"
+    series: "Open Research Repository"
+    categories: ["Speculative", "Futures"]
+    formats: ["Kindle", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: null
+
+  - slug: "keeper-of-the-keys"
+    title: "Keeper Of the Keys: A CHARLIE CHAN MYSTERY"
+    series: "The Enigmatic Chronicles of Charlie Chan: Mystery Adventures"
+    categories: ["Mystery", "Crime"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "lafcadio-hearn"
+    title: "Lafcadio Hearn: Embracing the Beauty of the East"
+    categories: ["Biography", "Culture"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "sparta-road-to-thermopylae"
+    title: "Sparta: The Road to Thermopylae"
+    series: "Empires and Legends of the Ancient World"
+    categories: ["History"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "us-dollar-hegemony"
+    title: "US Dollar Hegemony: The Last Empire To Fall"
+    series: "The World in Crisis"
+    categories: ["Economics", "Geopolitics"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "chinas-imperative"
+    title: "China's Imperative: Diversifying Investments to Avoid Economic Collapse: REPORT"
+    series: "The World in Crisis"
+    categories: ["Economics", "Geopolitics"]
+    formats: ["Kindle"]
+    isbn_paperback: null
+    isbn_hardcover: null
+
+  - slug: "conquest-of-empires-gaugamela"
+    title: "Conquest of Empires: Alexander's Road to Gaugamela"
+    series: "Empires and Legends of the Ancient World"
+    categories: ["History"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "la-isla-de-leucade"
+    title: "La Isla de Leucade - Modern Digital Impressionist Art: The Hidden Colors of Nature"
+    categories: ["Art"]
+    formats: ["Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: null
+
+  - slug: "hellenistic-age-kindle"
+    title: "The Hellenistic Age: Hellenization after Alexander The Great (Kindle)"
+    series: "The Age of Hellenic Macedonia: Rise of Macedon"
+    categories: ["History"]
+    formats: ["Kindle"]
+    isbn_paperback: null
+    isbn_hardcover: null
+
+  - slug: "hellenistic-age-print"
+    title: "The Hellenistic Age: Hellenization after Alexander The Great (Print)"
+    series: "The Age of Hellenic Macedonia: Rise of Macedon"
+    categories: ["History"]
+    formats: ["Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "charlie-chan-constantinople-intrigue"
+    title: "Charlie Chan: Constantinople Intrigue: A CHARLIE CHAN MYSTERY"
+    series: "The Enigmatic Chronicles of Charlie Chan: Mystery Adventures"
+    categories: ["Mystery", "Crime"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "lccc-trade-unit-africa"
+    title: "The LCCC Trade Unit: Transforming Resource Exchange in Africa: The LCCC Trade Unit as a Catalyst for Sustainable Development"
+    series: "Sustainability and Human Ecology"
+    categories: ["Economics", "Development"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "shadows-of-the-romanovs"
+    title: "Shadows of the Romanovs: The Nikolai Voronin Chronicles: Book One"
+    series: "The Nikolai Voronin Chronicles"
+    categories: ["Historical Fiction", "Thriller"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "silent-hoof"
+    title: "The Silent Hoof: A CHARLIE CHAN MYSTERY"
+    series: "The Enigmatic Chronicles of Charlie Chan: Mystery Adventures"
+    categories: ["Mystery", "Crime"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "charlie-chans-reno-riddle"
+    title: "Charlie Chan’s Reno Riddle : A CHARLIE CHAN MYSTERY"
+    series: "The Enigmatic Chronicles of Charlie Chan: Mystery Adventures"
+    categories: ["Mystery", "Crime"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "house-of-argead"
+    title: "The House of Argead: Rise of Macedon"
+    series: "The Age of Hellenic Macedonia: Rise of Macedon"
+    categories: ["History"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "dance-of-shadows"
+    title: "A Dance of Shadows: Sherlock Holmes and Charlie Chan Battling Professor Moriarty and His German Spy Ring"
+    series: "The Enigmatic Chronicles of Charlie Chan: Mystery Adventures"
+    categories: ["Mystery", "Crossover"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "jade-serpent-murders"
+    title: "The Jade Serpent Murders: A CHARLIE CHAN MYSTERY"
+    series: "The Enigmatic Chronicles of Charlie Chan: Mystery Adventures"
+    categories: ["Mystery", "Crime"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "paradox-of-intelligence"
+    title: "The Paradox of Intelligence: Examining the Knowledge-Ignorance Dichotomy"
+    categories: ["Philosophy", "Cognition"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "jade-dragons-curse"
+    title: "The Jade Dragon's Curse: A CHARLIE CHAN MYSTERY"
+    series: "The Enigmatic Chronicles of Charlie Chan: Mystery Adventures"
+    categories: ["Mystery", "Crime"]
+    formats: ["Kindle", "Hardcover", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: "TBD"
+
+  - slug: "prohibition-libations"
+    title: "24 Classic Prohibition Libations For Every Drinker: An Introduction to the Finest Speakeasy Cocktails of All Time"
+    categories: ["Lifestyle", "Food & Drink"]
+    formats: ["Kindle", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: null
+
+  - slug: "beacon-marketing"
+    title: "Beacon Marketing"
+    categories: ["Marketing", "Business"]
+    formats: ["Kindle", "Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: null
+
+  - slug: "improve-internet-privacy-kindle"
+    title: "Improve Your Internet Privacy: Don't let the Internet browse you. (Kindle Edition)"
+    categories: ["Technology", "Privacy"]
+    formats: ["Kindle"]
+    isbn_paperback: null
+    isbn_hardcover: null
+
+  - slug: "improve-internet-privacy-paperback"
+    title: "Improve Your Internet Privacy: Don't let the Internet browse you. (Paperback)"
+    categories: ["Technology", "Privacy"]
+    formats: ["Paperback"]
+    isbn_paperback: "TBD"
+    isbn_hardcover: null
