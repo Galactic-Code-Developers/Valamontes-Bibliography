@@ -1,0 +1,33 @@
+# CITATION.cff
+cff-version: 1.2.0
+message: "If you use this bibliography or datasets in academic work, please cite this repository."
+title: "Antonios Valamontes – Collected Bibliography and Book Metadata"
+version: "1.0.0"
+date-released: "2025-12-01"
+authors:
+  - family-names: "Valamontes"
+    given-names: "Antonios"
+    affiliation: "Kapodistrian Academy of Science"
+keywords:
+  - bibliography
+  - physics
+  - economics
+  - sustainability
+  - fiction
+  - Antonios Valamontes
+type: "dataset"
+repository-code: "https://github.com/USERNAME/REPOSITORY"  # <-- replace with actual
+abstract: >
+  This repository contains structured metadata for the published books of
+  Antonios Valamontes, including BibTeX entries (bibliography.bib),
+  JSON and YAML datasets (books.json, books.yaml), and an ISBN index
+  for all print editions available on Amazon.
+preferred-citation:
+  type: "book"
+  title: "Infinity Calculus: Symbolic Foundations of Infinite Analysis"
+  authors:
+    - family-names: "Valamontes"
+      given-names: "Antonios"
+  publisher: "Independently published"
+  year: 2024
+  isbn: "TBD"
