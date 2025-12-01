@@ -32,7 +32,7 @@
 6. **Demokritos Scientific Journal: Foundations of Open Physics Research: Special Edition**  
    **Series:** Foundations of Open Physics  
    **Formats:** Hardcover, Paperback  
-   **ISBN-13:** TBD  
+   **ISBN-13:** 979-8341278011  
 
 7. **Foundations and Frontiers in Theoretical Physics: Collected Papers: The Dodecahedron Theory of Everything (Open Research Repository)**  
    **Series:** Open Research Repository  
